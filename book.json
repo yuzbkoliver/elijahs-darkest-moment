@@ -1,0 +1,19 @@
+{
+  "title": "以利亚的至暗时刻",
+  "subtitle": "从迦密山到罗腾树，从崩溃到重新得力",
+  "author": "yuzbkoliver",
+  "language": "zh-CN",
+  "year": 2026,
+  "description": "探索先知以利亚在迦密山胜利后的属灵低谷与神的医治",
+  "keywords": ["以利亚", "圣经", "灵修", "属灵低潮", "列王纪"],
+  "chapters": [
+    "introduction.md",
+    "chapter-01-迦密山之后.md",
+    "chapter-02-罗腾树下.md",
+    "chapter-03-旷野之旅.md",
+    "chapter-04-何烈山的洞中.md",
+    "chapter-05-只剩下我一个人.md",
+    "chapter-06-新的差遣.md",
+    "chapter-07-从至暗到至光.md"
+  ]
+}
